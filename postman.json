@@ -1,0 +1,17 @@
+{
+  "info": {
+    "name": "MimePost API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Ping",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "{{baseUrl}}/ping"
+        }
+      }
+    }
+  ]
+}
